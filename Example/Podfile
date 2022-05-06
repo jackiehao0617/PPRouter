@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'PPRouter_Example' do
+  pod 'PPRouter', :path => '../'
+
+  target 'PPRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

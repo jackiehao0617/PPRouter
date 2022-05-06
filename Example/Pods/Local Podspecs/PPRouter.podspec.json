@@ -1,0 +1,22 @@
+{
+  "name": "PPRouter",
+  "version": "0.1.0",
+  "summary": "A short description of PPRouter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/haopf@rgnet.cn/PPRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "haopf@rgnet.cn": "15090633612@163.com"
+  },
+  "source": {
+    "git": "https://github.com/haopf@rgnet.cn/PPRouter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PPRouter/Classes/**/*"
+}
